@@ -121,7 +121,7 @@ GET '/categories'
     "5": "Entertainment",
     "6": "Sports"
   },
-  "current_category": null,
+  "current_category": [5],
   "questions": [
     {
       "answer": "Apollo 13",
